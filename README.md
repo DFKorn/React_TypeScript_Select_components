@@ -7,4 +7,4 @@ React Select component in TypeScript supporting single-select, multi-select and 
 * React
 * TypeScript
 
-### Live - [Select Component]()
+### Live - [Select Component](https://react-ts-select.netlify.app/)
